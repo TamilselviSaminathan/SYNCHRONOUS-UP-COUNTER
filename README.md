@@ -64,4 +64,4 @@ Developed by: TAMILSELVI S RegisterNumber:25018014
 
 
 **RESULTS**
-To implement 4 bit synchronous up counter and validate functionality.
+Thus,the implemented 4 bit synchronous up counter and validate functionality.
