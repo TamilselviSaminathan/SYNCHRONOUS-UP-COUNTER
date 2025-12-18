@@ -28,7 +28,10 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
+/* write all the steps invloved 
+
+*/
+
 
 **PROGRAM**
 
@@ -48,6 +51,8 @@ Developed by: TAMILSELVI S RegisterNumber:25018014
 
 
 **TRUTH TABLE**
+<img width="1049" height="366" alt="image" src="https://github.com/user-attachments/assets/c8935893-3cee-49f1-ba8f-fa86a5e0d97c" />
+
 
 **RESULTS**
 To implement 4 bit synchronous up counter and validate functionality.
