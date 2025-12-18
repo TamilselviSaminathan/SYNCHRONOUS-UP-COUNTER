@@ -44,3 +44,4 @@ Developed by: RegisterNumber:
 **TRUTH TABLE**
 
 **RESULTS**
+To implement 4 bit synchronous up counter and validate functionality.
